@@ -1,0 +1,39 @@
+/*  goole Font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+  
+body{
+    padding: 0%;
+    margin: 0%; 
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500px;
+}
+.headline-position{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+.check-mark{
+    color: rgb(70, 114, 189);
+    background-color: rgb(241, 250, 250);
+    border-radius: 10px;
+  
+
+}
+.choose-button{
+    text-decoration: none;
+    color: #466799;
+    background-color: #fadcf0;
+    padding: 8px 30px;
+}
+
+.third-box{
+    color: white;
+  height: 450px;
+  background-color: #4be79e;
+  border-radius: 26px;
+  position: relative;
+  top: -70px;
+  margin-top: 20px;
+}
+.title{
+    color: white;
+}
